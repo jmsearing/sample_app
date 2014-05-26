@@ -25,6 +25,3 @@ doc/
 .idea
 .secret
 
-# Ignore factories...rotational password used.
-/spec/factories.rb
-
